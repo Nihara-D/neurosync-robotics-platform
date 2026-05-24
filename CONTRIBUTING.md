@@ -238,4 +238,4 @@ For commercial use inquiries, please contact the project maintainer.
 - Email: shniharard@gmail.com
 - Check existing documentation and discussions
 
-Thank you for making NeuroSync better! 🧠🤖
+Thank you for making NeuroSync better! 
